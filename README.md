@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihmt&label=Profile%20views&color=0e75b6&style=flat" alt="semihmt" /> </p>
 
-- 🔭 I’m currently **searching for an end-of-study internship** as a engine developer.
+- 🔭 I’m currently **searching for an end-of-study internship** as an engine developer.
 
 - 🌱 I’m proficient in **C++ & C#**
   
