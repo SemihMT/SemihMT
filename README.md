@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihmt&label=Profile%20views&color=0e75b6&style=flat" alt="semihmt" /> </p>
 
-- 🔭 I’m currently working on **getting my degree as a game developer @ DAE**
+- 🔭 I’m currently **searching for an end-of-study internship** as a engine developer.
 
-- 🌱 I’m currently learning **C++ & C#**
+- 🌱 I’m proficient in **C++ & C#**
+  
+- 💼 I have experience using **Unreal Engine & Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
